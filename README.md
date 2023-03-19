@@ -6,5 +6,5 @@
 ## Multicollinearity Check
 * Here, we can see that there is no multicollinearity exists between any two variables and all of them are indepedent
   ![image](https://user-images.githubusercontent.com/48169929/226157127-22f54f77-d0a3-42e0-9391-638dc5f057f3.png)
-## Model Comparison
+
 
